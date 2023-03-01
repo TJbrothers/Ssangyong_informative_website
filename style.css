@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(144, 144, 255);
+}
+
+.transport
+{
+    width: 30%;
+    height: 25%;
+}
+
+.car_models
+{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 40px;
+    background-color: rgb(234, 255, 118);
+}
+
+#back
+{
+	font-size: 20px;
+    float: right;
+    background-color: rgb(234, 255, 118);
+}
